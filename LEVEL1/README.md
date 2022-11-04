@@ -53,3 +53,4 @@
 | 46 ||[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||||
 | 47 ||[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/>||||
 | 48 ||[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/>||✅|[바로가기](https://the1020.github.io/posts/programmers-92334/)|
+| 49 ||[성격 유형 검사하기](https://programmers.co.kr/learn/courses/30/lessons/118666)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||✅|[바로가기](https://the1020.github.io/posts/programmers-118666/)|
