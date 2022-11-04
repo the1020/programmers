@@ -16,7 +16,7 @@
 | 09 ||[등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 10 ||[[1차] 셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 11 ||[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
-| 12 ||[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 12 ||[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|✅|[바로가기](https://the1020.github.io/posts/programmers-42628/)|
 | 13 ||[2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 14 ||[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 15 ||[모두 0으로 만들기](https://programmers.co.kr/learn/courses/30/lessons/76503)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
