@@ -59,3 +59,4 @@
 | 52 ||[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 53 ||[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 54 ||[두 큐 합 같게 만들기](https://programmers.co.kr/learn/courses/30/lessons/118667)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|✅|[바로가기](https://the1020.github.io/posts/programmers-118667/)|
+| 54 ||[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|✅|[바로가기](https://the1020.github.io/posts/programmers-132265/)|
