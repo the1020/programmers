@@ -48,3 +48,4 @@
 | 41 ||[최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 42 ||[하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 43 ||[N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 44 ||[코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|✅|[바로가기](https://the1020.github.io/posts/programmers-118668/)|
